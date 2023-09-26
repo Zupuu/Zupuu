@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supuni Lakshika</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/media/4de9a42842478dea7b26f36beda0a98f.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/media/4de9a42842478dea7b26f36beda0a98f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zupuu&label=Profile%20views&color=0e75b6&style=flat" alt="zupuu" /> </p>
 
