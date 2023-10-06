@@ -34,6 +34,14 @@
 [](https://github-readme-streak-stats.herokuapp.com/?user=Zupuu&theme=dark&hide_border=true)<br/>
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=Zupuu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zupuu&show_icons=true&locale=en&layout=compact" alt="zupuu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zupuu&show_icons=true&locale=en" alt="zupuu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zupuu&" alt="zupuu" /></p>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zupuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -50,10 +58,4 @@
 [![](https://visitcount.itsvg.in/api?id=Zupuu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zupuu&show_icons=true&locale=en&layout=compact" alt="zupuu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zupuu&show_icons=true&locale=en" alt="zupuu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zupuu&" alt="zupuu" /></p>
 
