@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter | Dart | Firebase**
 
-- 💬 Ask me about **Figma | JavaScript | C#**
+- 💬 Ask me about **Figma | JavaScript**
 
 - 📫 How to reach me **lakshikasupuni9@gmail.com**
 
