@@ -43,6 +43,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zupuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![An image of @zupuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zupuu)](https://holopin.io/@zupuu)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
