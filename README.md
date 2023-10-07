@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **lakshikasupuni9@gmail.com**
 
-- 😄 Committing to fun, one line of code at a time!**
+- 😄 **Committing to fun, one line of code at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
